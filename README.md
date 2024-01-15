@@ -7,18 +7,19 @@ This project focuses on providing users with a seamless experience when interact
 
 ### Initial State
 
-![Screen 1](/documentation/ss1.png)
+<img src="documentation/ss1.png" alt="Initial State" width="300"/>
+
 
 This screenshot illustrates the initial state of the application, providing users with a clear starting point for inputting their data.
 
 ### Generated PDF
 
-![Screen 2](/documentation/ss2.png)
+<img src="documentation/ss2.png" alt="Generated PDF" width="300"/>
 
 Upon user input, the application generates a filled PDF document. This allows users to review and confirm the accuracy of their entered information before proceeding.
 
 ### Updated PDF Data
 
-![Screen 3](/documentation/ss3.png)
+<img src="documentation/ss3.png" alt="Updated PDF Data" width="300"/>
 
 This screenshot showcases an updated PDF document with user-inputted data. The application ensures that the PDF reflects the latest user-provided information accurately.
